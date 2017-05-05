@@ -1,2 +1,5 @@
-# haskell.doc
-The docker files to create the containers in which there are the Haskell's documents, users guide, etc.
+# many.doc
+This repo holds the Dockerfiles and scripts to create any kind of the document which hold in docker.
+
+
+The build will run.with the travis-ci.
